@@ -1,7 +1,7 @@
 {
   "name": "hackaton-backend",
   "version": "1.0.0",
-  "description": "Backend para proyecto Hackaton con MySQL",
+  "description": "Backend para proyecto Hackaton",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
